@@ -1,0 +1,27 @@
+[
+  {
+    "id": "1",
+    "name": "Offers",
+    "url": "https://www.barbanews.com/wp-content/uploads/2020/05/mcdonalds.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Grocery",
+    "url": "https://icisete.fr/wp-content/uploads/2019/04/Burger-King-S%C3%A8te-H%C3%A9rault.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Breakfast",
+    "url": "https://iamafoodblog.b-cdn.net/wp-content/uploads/2019/02/full-english-7355w-2.jpg"
+  },
+  {
+    "id": "4",
+    "name": "Pizza",
+    "url": "https://wordpress.potagercity.fr/wp-content/uploads/2019/06/recette_pizza_legume-768x576.jpg"
+  },
+  {
+    "id": "5",
+    "name": "Desert",
+    "url": "https://cdn.pratico-pratiques.com/app/uploads/sites/2/2018/08/27230233/gateau-mousse-chocolat-et-cafe.jpeg"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "id":1,
+    "title": "KINGBOX 20 newggets",
+    "price": "€ 10.00",
+    "description": "Idéal à partager avec 20 Newggets, entre amis ou en famille !",
+    "image": "https://rs-menus-api.roocdn.com/images/d4f0caa9-f9c0-4936-853f-60110c9684dc/image.jpeg?width=618.75&height=360&auto=webp&format=jpg&fit=crop&v=",
+  },
+  {
+    "id":2,
+    "title": "KINGBOX 10 newggets + 10 chili cheese nuggets",
+    "price": "€ 10.00",
+    "description": "Idéal à partager avec 10 Newggets et 10 Chili Cheese Nuggets. Entre amis ou en famille, il y en a pour tous les goûts !",
+    "image": "https://rs-menus-api.roocdn.com/images/d4f0caa9-f9c0-4936-853f-60110c9684dc/image.jpeg?width=618.75&height=360&auto=webp&format=jpg&fit=crop&v=",
+  },
+  {
+    "id":3,
+    "title": "KINGBOX 10 onion rings + 10 chili cheese nuggets",
+    "price": "€ 10.00",
+    "description": "Idéal à partager avec 10 Onion Rings et 10 Chili Cheese Nuggets. Entre amis ou en famille, il y en a pour tous les goûts !",
+    "image": "https://rs-menus-api.roocdn.com/images/d4f0caa9-f9c0-4936-853f-60110c9684dc/image.jpeg?width=618.75&height=360&auto=webp&format=jpg&fit=crop&v=",
+  },
+  {
+    "id":4,
+    "title": "KINGBOX 10 newggets + 10 onion rings",
+    "price": "€ 10.00",
+    "description": "Idéal à partager avec 10 Onion Rings et 10 Newggets. Entre amis ou en famille, il y en a pour tous les goûts !",
+    "image": "https://rs-menus-api.roocdn.com/images/d4f0caa9-f9c0-4936-853f-60110c9684dc/image.jpeg?width=618.75&height=360&auto=webp&format=jpg&fit=crop&v=",
+  }
+]
